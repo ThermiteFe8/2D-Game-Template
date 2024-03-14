@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: fe4b4318c8026ce47839736769fea1be
+  - enabled: 1
+    path: Assets/Scenes/SideScrollerScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 6315d6702e662374ea9980b0ca27e6c6
+  - enabled: 1
+    path: Assets/Scenes/TopDownScene.unity
+    guid: 7743407ce51b03a45a0ec95064cd3732
+  - enabled: 1
+    path: Assets/Scenes/SettingsScene.unity
+    guid: 6494475b1a7b95e4c998f29580cda423
+  m_configObjects: {}
