@@ -35,7 +35,7 @@
  - Movement in all directions
  - Renders in front of and behind stuff properly
 
-##Credits
+## Credits
  - Icons by Open Game Art https://opengameart.org/content/free-keyboard-and-controllers-prompts-pack
  - All other art, code, and sounds by me - ThermiteFe8
  - Otherwise, go ham.
